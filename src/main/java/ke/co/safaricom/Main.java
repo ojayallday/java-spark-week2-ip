@@ -1,14 +1,14 @@
-package org.crotich;
+package ke.co.safaricom;
 
-import org.crotich.dao.HeroDao;
-import org.crotich.dao.SquadDao;
-import org.crotich.dao.StrengthDao;
-import org.crotich.dao.WeaknessDao;
-import org.crotich.models.Hero;
-import org.crotich.models.Squad;
-import org.crotich.models.Strength;
-import org.crotich.models.Weakness;
-import org.crotich.utils.SharedUtils;
+import ke.co.safaricom.dao.HeroDao;
+import ke.co.safaricom.dao.SquadDao;
+import ke.co.safaricom.dao.StrengthDao;
+import ke.co.safaricom.dao.WeaknessDao;
+import ke.co.safaricom.models.Hero;
+import ke.co.safaricom.models.Squad;
+import ke.co.safaricom.models.Strength;
+import ke.co.safaricom.models.Weakness;
+import ke.co.safaricom.utils.SharedUtils;
 
 import java.util.HashMap;
 
